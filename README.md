@@ -14,7 +14,7 @@ On Windows you must install Cmake and MinGW application before compile algorithm
   * [CMake install](https://cmake.org/install/)
   * [MinGW install](http://www.mingw.org/wiki/howto_install_the_mingw_gcc_compiler_suite)
 
-### Compile algorith
+### How compile the algorithm
 
 * Open Cmd terminal As Admin in folder with code.
   * Example:
