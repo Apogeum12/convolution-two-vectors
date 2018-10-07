@@ -26,11 +26,13 @@ $ cd C:\CMake\Conv
  ```sh
 $ cmake -G "MinGW Makefiles" .
 ```
+![test1](https://user-images.githubusercontent.com/35242996/46583041-d7b5a400-ca50-11e8-9ecf-f2d7097ac3f7.PNG)
 
  * After finish build in cmd:
  ```sh
  $ make -j
  ```
+ ![test2](https://user-images.githubusercontent.com/35242996/46583042-d7b5a400-ca50-11e8-90f3-0dfb86a11a22.PNG)
  
 ## Running the tests
 * Open program in bin folder.
@@ -53,3 +55,4 @@ $ Conv
  $ 0.0099 0.1 6 10
  $ -> 0.001089 0.0110792 2.1854 16.6074 924.68 1576 60
  ```
+![test3](https://user-images.githubusercontent.com/35242996/46583043-d7b5a400-ca50-11e8-98b7-6ecab141cff7.PNG)
