@@ -50,7 +50,7 @@ $ Conv
  $ 1 0 1 1
  $ -> 1 1 1 2 1
  ```
-  * Test for length u = 2 and v = 2
+  * Test for length u = 4 and v = 4
  ```sh
  $ 4 4
  $ 0.11 0.008 154 6
