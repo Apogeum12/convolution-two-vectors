@@ -1,6 +1,6 @@
 # Algorithm Convolution two vectors
 
-Simple algorithm in c++ for calculating two vectors **u** and **v**.
+Simple algorithm in c++ for calculating Convolution two vectors **u** and **v**.
 
 ## About code
 
@@ -18,25 +18,21 @@ On Windows you must install Cmake and MinGW application before compile algorithm
 
 * Open Cmd terminal As Admin in folder with code.
   * Example:
-  
 ```sh
 $ cd C:\CMake\Conv
 ```
- 
+
  * Next:
- 
  ```sh
 $ cmake -G "MinGW Makefiles" .
 ```
 
-
- * After finish bulide in cmd:
+ * After finish build in cmd:
  ```sh
  $ make -j
  ```
-
+ 
 ## Running the tests
-
 * Open program in bin folder.
 ```sh
 $ cd bin
